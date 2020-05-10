@@ -1,0 +1,11 @@
+/*
+Theme Name: My child theme
+Template: twentytwenty
+
+Author: ASV
+Version: 1.0
+*/
+
+@import url("../twentytwenty/style.css");
+
+.site-title{ color:red; }
